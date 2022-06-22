@@ -6,6 +6,7 @@ public class Main {
 
         for (int i=0; i<5; i++) {
             System.out.println("hello am I a cat?");
+            System.out.println("hello I am a dog");
         }
     }
 }
